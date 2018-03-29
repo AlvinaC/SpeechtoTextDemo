@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpeechtoTextDemo</string>
+    <string name="speak">Speak now or forver hold your peace :)</string>
+</resources>
